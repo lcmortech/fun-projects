@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: inherit;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#button {
+    text-align:center;
+    background: #fff;
+    color: hsl(220,60%,70%);;
+    width: 30%;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid skyblue;
+    border-radius: 20px;
+    cursor: pointer;
+}
