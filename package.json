@@ -1,0 +1,8 @@
+{
+  "name": "fun-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rg326/fun-projects.git",
+  "author": "Lauren <rg326@live.com>",
+  "license": "MIT"
+}
